@@ -1,0 +1,103 @@
+
+  
+  .row {
+    margin-right: -15px;
+    margin-left: -15px;
+    display: flex;
+    flex-wrap: wrap;
+}
+  
+  .col {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+  }
+  
+  
+
+  
+  .projects-section {
+    margin: 20px;
+    display: flex;
+    align-items: center;
+}
+.item {
+    display: inline-block;
+    margin: 10px;
+}
+.card {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  width: 800px;
+  max-width: 800px;
+}
+
+.card-header {
+  padding: 0 39px;
+  background-color: #f8f9fa;
+  border-bottom: 1px solid #e0e0e0;
+  height: 60px;
+}
+  
+
+
+.card-body {
+  padding: 15px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  .form-group-left {
+    display: flex;
+    justify-content: space-between;
+    width: 40%;
+}
+button.btn.generate-times {
+  width: 30px;
+}
+  
+  .form-control {
+    display: block;
+    width: 100%;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+    transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+  }
+  
+ 
+  .custom-container {
+    margin: 0;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+}
+   
+    
+    .btn:focus {
+    outline: none;
+    box-shadow: 0 0 0 3px rgba(0, 123, 255, 0.25);
+    }
+    
+    .times-container {
+      margin-top: 15px;
+      display: flex;
+      justify-content: space-between;
+  }
+  .is-invalid {
+    border-color: #dc3545;
+  }

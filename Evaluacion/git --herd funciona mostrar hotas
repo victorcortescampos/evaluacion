@@ -1,0 +1,47 @@
+[33mcommit fc910f7f4f227c685d86baf81f6fe969b5e3f90a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: NotoriuxX <manuelmeryz@gmail.com>
+Date:   Wed Apr 5 21:28:01 2023 -0400
+
+    funciona mostrar horas
+
+[33mcommit 7c09805d3fb2aa1b77159f18e6c32bb6acbdf476[m
+Author: NotoriuxX <manuelmeryz@gmail.com>
+Date:   Sun Apr 2 23:06:04 2023 -0400
+
+    Actualizacion funciona hasta horas
+
+[33mcommit 49c10867fee5154f1ca23a7b5676dd8ba56a1740[m
+Author: NotoriuxX <manuelmeryz@gmail.com>
+Date:   Tue Mar 21 01:06:34 2023 -0300
+
+    cree agendar citas
+
+[33mcommit 8b45eb280cff5deea28ca44c40f3df52f1537fd0[m
+Author: NotoriuxX <manuelmeryz@gmail.com>
+Date:   Sat Mar 18 10:11:02 2023 -0300
+
+    Perfil Terminado
+
+[33mcommit 0e9f83264ed7259beb789b2c533c1249dcee5e54[m
+Author: NotoriuxX <manuelmeryz@gmail.com>
+Date:   Fri Mar 17 21:41:19 2023 -0300
+
+    actualizacion Perfil, falta poco
+
+[33mcommit 68a97d91a71e28b6ba709f00d6bb824d9d02be73[m
+Author: NotoriuxX <manuelmeryz@gmail.com>
+Date:   Fri Mar 17 10:06:43 2023 -0300
+
+    perfil reciBe datos de BD
+
+[33mcommit c049761b54a333433cf6e2a9f417119b5d3965e3[m
+Author: NotoriuxX <manuelmeryz@gmail.com>
+Date:   Wed Mar 15 20:25:19 2023 -0300
+
+    actualización funcioando
+
+[33mcommit c63c99b668c4811664640260984ba992d285f6f8[m
+Author: NotoriuxX <manuelmeryz@gmail.com>
+Date:   Wed Mar 15 11:37:23 2023 -0300
+
+    Initial commit
